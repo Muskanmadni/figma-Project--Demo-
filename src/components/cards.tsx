@@ -236,7 +236,7 @@ export function HomepageProducts(){
                 <div className="product-images">
                     <Image src={tablet} alt="image"></Image>
                 </div>
-                <p className="tittle">Apple iPad 9 10.2" 64GB Wi-Fi Silver MK2L3 2021</p>
+                <p className="tittle">Apple iPad 9 10.2 64GB Wi-Fi Silver MK2L3 2021</p>
                 <p className="prices">$398</p>                  
             </div>
         </div>
