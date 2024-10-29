@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "@/components/images/logo.png";
+import logo from "@/components/images/Logo.png"
 import Favorites from "@/components/images/Favorites.png";
 import Cart from "@/components/images/Cart.png";
 import User from "@/components/images/User.png";
