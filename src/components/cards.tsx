@@ -89,7 +89,7 @@ export function VisionCard(){
                 <p className="vision-text-3">An immersive way to<br/>experience<br/>entertainment</p>
             </div>
             <div className="vision-Image">
-                <Image className="w-[180px] h-[150px]" src={VR} alt="VR-Image"></Image>
+                <Image className="w-[180px] h-[150px]" src={VR} alt="VRImage"></Image>
             </div>
         </div>
     );

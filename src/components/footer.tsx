@@ -1,6 +1,5 @@
 import Image from "next/image";
 import socialLogo from"@/components/images/Social Icons.png";
-import footerLogo from "@/components/images/Logo.png"
 
 export function Footer(){
     return(
@@ -19,7 +18,7 @@ export function Footer(){
                 <li>Payment</li>
             </ul>
         </div>
-        <div className="footer-logo">
+        <div className="footerlogo-text">
             <p className="footer-logo-class">Cyber</p>
         </div> 
         <div className="footer-text">
