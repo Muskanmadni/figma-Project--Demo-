@@ -35,8 +35,7 @@ export function MacCard(){
                 <p className="mac-text-3">The new 15-inch MacBook Air makes room for more<br/>of what you love with a spacious Liquid Retina<br/>display.</p>
                 <div className="mac-button">
                     <button className="mac-shop-button" >Shop Now</button>
-                </div>
-                
+                </div>  
             </div>
             <div className="macbook-Image">
                 <Image className="w-[300px] h-[300px]" src={MacBook} alt="Macbook"></Image>
@@ -67,7 +66,7 @@ export function AirpodCard(){
                 <p className="airpod-text-1">Apple</p>
                 <p className="airpod-text-2">AirPods</p>
                 <p className="airpod-text-3">Max</p>
-                <p className="airpod-text-4">Computational audio. <br/>Listen, it's powerful</p>
+                <p className="airpod-text-4">Computational audio<br/>Listen its powerful</p>
             </div>
             <div className="Airpod-image">
                 <Image className="w-[100px] h-[200px]" src={airpod} alt="Airpod-Image"></Image>
@@ -237,10 +236,8 @@ export function HomepageProducts(){
                 <div className="product-images">
                     <Image src={tablet} alt="image"></Image>
                 </div>
-
-                <p className="tittle">Apple iPad 9 10.2" 64GB Wi-Fi Silver (MK2L3) 2021</p>
-                <p className="prices">$398</p>
-                    
+                <p className="tittle">Apple iPad 9 10.2" 64GB Wi-Fi Silver MK2L3 2021</p>
+                <p className="prices">$398</p>                  
             </div>
         </div>
     );
