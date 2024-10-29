@@ -90,9 +90,6 @@ export function VisionCard(){
         </div>
     );
 }
-// function of category
-
-
 export function Category(){
     return(
         <div className="category-card">
