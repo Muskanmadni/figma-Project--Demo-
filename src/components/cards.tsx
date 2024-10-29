@@ -32,11 +32,7 @@ export function MacCard(){
             <div className="mac-text">
                 <p className="mac-text-1">Macbook</p>
                 <p className="mac-text-2">Air</p>
-                <p className="mac-text-3">The new 15-inch MacBook Air makes room for more
-                    <br/>
-                    of what you love with a spacious Liquid Retina
-                    <br/>display.
-                </p>
+                <p className="mac-text-3">The new 15-inch MacBook Air makes room for more<br/>of what you love with a spacious Liquid Retina<br/>display.</p>
                 <div className="mac-button">
                     <button className="mac-shop-button" >Shop Now</button>
                 </div>
